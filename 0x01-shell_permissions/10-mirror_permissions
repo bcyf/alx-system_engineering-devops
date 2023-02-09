@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown olleh
+chmod 354 hello
